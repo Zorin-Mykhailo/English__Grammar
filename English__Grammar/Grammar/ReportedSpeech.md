@@ -16,11 +16,11 @@
 
 | **Direct Speech** | **Reported Speech** |
 |------------------|------------------|
-| **Present Simple**: "I **like** this book." | **Past Simple**: She said she **liked** that book. |
-| **Present Continuous**: "I **am reading** now." | **Past Continuous**: She said she **was reading** then. |
-| **Past Simple**: "I **bought** a car." | **Past Perfect**: She said she **had bought** a car. |
-| **Present Perfect**: "I **have seen** this movie." | **Past Perfect**: She said she **had seen** that movie. |
-| **Will**: "I **will call** you." | **Would**: She said she **would call** me. |
+| `Present Simple` I **like** this book. | `Past Simple` She said she **liked** that book. |
+| `Present Continuous` I **am reading** now. | `Past Continuous` She said she **was reading** then. |
+| `Past Simple` I **bought** a car. | `Past Perfect` She said she **had bought** a car. |
+| `Present Perfect` I **have seen** this movie. | `Past Perfect` She said she **had seen** that movie. |
+| `Will` I **will call** you. | `Would` She said she **would call** me. |
 
 ---
 
@@ -62,3 +62,49 @@
 ## **Важливе виключення – НЕ завжди змінюється час!**  
 Якщо ситуація **все ще актуальна**, час може залишатися незмінним:  
 👉 **"The Earth is round,"** she said. → She said **the Earth is round**. *(Факт, залишається в Present Simple)*  
+
+
+
+
+---
+
+## 2C Reported speech. Grammar table
+*Look at the text again. What are the speakers' original words? Complete the table with the correct tenses for the direct speech.*
+
+| DIRECT SPEECH | REPORTED SPEECH |
+| --- | --- |
+| present simple | past simple |
+| present continuous | past continuous |
+| past simple | past perfect |
+| past perfect | past perfect |
+| present perfect | past perfect |
+| can/can't | could/coudn't  |
+| will/won't | would/wouldn't  |
+| must | had to |
+
+Study the rest of the rules.
+
+REPORTED SPEECH
+ 
+a). These verbs do not usually change in reported speech: *might, should, could, would, would like*.  
+b). The past perfect does not change in reported speech. *"I'd never been there". She said she'd never been there*.    
+c). We always use a personal object with *tell*. With *say*, we do not need a personal object. *I told John that I'd phone. I said (to Jo) that I'd phone*.   
+d). We often omit "that" in reported speech. *He said he'd call you.*  
+
+- Work with a partner. Find the examples of rules a-d in the text.
+
+> NOTE!  
+> Pronouns, possessive[<sup>🌍</sup>](# "possessive [позесів] — власницький, присвійний") adjectives and references of time and place usually change in reported speech.  
+> "I'll phone you tomorrow", he said to me.  
+> "He told me he'd phone me the following day  
+
+| from | to |
+| --- | --- |
+| now -> | then/at that moment  |
+| today ->| that day |
+| an hour ago -> | an hour earlier |
+| yesterday-> | the day before |
+| last Tuesday/month/year-> | the Tuesday/the month/the year before |
+| tomorrow-> | the following day |
+| next week/month-> | the next week/month;  the following week/month |
+| here-> | there |
