@@ -1,5 +1,11 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| intimate | [🔊](# "і́нтімейт") | [🇺🇦](# "близький, інтимний") | [🌐](# "They had an intimate conversation about their relationship.") |  | [🛠️](# "adjective") |
+| gradually | [🔊](# "ґраджуелі") | [🇺🇦](# "поступово") | [🌐](# "He gradually improved his English by practicing every day.") |  | [🛠️](# "adverb") |
+| mean the world to someone | [🔊](# "мін зе ворлд ту самван") | [🇺🇦](# "дуже багато значити для когось") | [🌐](# "Your support means the world to me.") |  | [🛠️](# "idiom") |
+| have someone's back | [🔊](# "гев самванз бек") | [🇺🇦](# "підтримувати, бути на боці") | [🌐](# "Thanks for always having my back.") |  | [🛠️](# "idiom") |
+| give it a shot | [🔊](# "ґів іт е шот") | [🇺🇦](# "спробувати, дати шанс") | [🌐](# "I’ve never tried skiing before, but I’ll give it a shot.") |  | [🛠️](# "idiom") |
+| got to | [🔊](# "ґот ту") | [🇺🇦](# "повинен, маю") | [🌐](# "I gotta go now, see you later!") |  | [🛠️](# "informal contraction") |
 | drift apart | [🔊](# "дрифт епарт") | [🇺🇦](# "віддалятись один від одного (емоційно)") | [🌐](# "We used to be close, but we’ve been drifting apart lately.") |  | [🛠️](# "phrasal verb") |
 | drain | [🔊](# "дрейн") | [🇺🇦](# "виснажувати") | [🌐](# "It's been draining dealing with all these problems.") |  | [🛠️](# "verb") |
 | go through a (tough) patch | [🔊](# "ґо θру е тaф пач") | [🇺🇦](# "переживати важкий період") | [🌐](# "She's going through a really tough patch at work.") |  | [🛠️](# "idiom") |
@@ -8,6 +14,7 @@
 | be my guest | [🔊](# "бі май ґест") | [🇺🇦](# "прошу, не соромся") | [🌐](# "If you want to use the phone, be my guest.") |  | [🛠️](# "idiom") |
 | whatever | [🔊](# "вот'евер") | [🇺🇦](# "що б не, байдуже що") | [🌐](# "You can choose whatever you like.") |  | [🛠️](# "determiner, pronoun, adverb") |
 | do one's best | [🔊](# "ду ванз бест") | [🇺🇦](# "робити все можливе") | [🌐](# "I'm doing my best to stay focused.") |  | [🛠️](# "verb phrase") |
+| pushy | [🔊](# "пуші") | [🇺🇦](# "наполегливий до настирливості") | [🌐](# "The salesperson was too pushy, so I left the store.") |  | [🛠️](# "adjective") |
 | make excuses | [🔊](# "мейкінґ екск'юзіз") | [🇺🇦](# "виправдовуватись, знаходити відмовки") | [🌐](# "He’s always making excuses for being late.") |  | [🛠️](# "verb phrase") |
 | effort | [🔊](# "е́ферт") | [🇺🇦](# "зусилля, старання") | [🌐](# "She put a lot of effort into preparing for the exam.") |  | [🛠️](# "noun") |
 | ass off | [🔊](# "ес оф") | [🇺🇦](# "до нестями, дуже сильно") | [🌐](# "He was working his ass off to finish the project on time.") |  | [🛠️](# "idiom (informal, vulgar)") |
