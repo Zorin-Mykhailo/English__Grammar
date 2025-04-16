@@ -1,5 +1,20 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| `📗 Class 38` </br>**Curse it out** |  |  |  |  |  |
+| take no shit | [🔊](# "тейк ноу шит") | [🇺🇦](# "не терпіти знущань чи неповаги") | [🌐](# "She’s strong and takes no shit from anyone.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| don’t give a shit | [🔊](# "доунт ґів е шит") | [🇺🇦](# "байдуже, абсолютно не хвилює") | [🌐](# "I don’t give a shit what they think.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| scare the shit out of | [🔊](# "скер зе шит аут ов") | [🇺🇦](# "дуже сильно налякати") | [🌐](# "That movie scared the shit out of me.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| the shit | [🔊](# "зе шит") | [🇺🇦](# "крутий, найкращий") | [🌐](# "That new album is the shit!") |  | [🛠️](# "idiom (informal, vulgar, positive)") |
+| be in deep shit | [🔊](# "бі ін ді́п шит") | [🇺🇦](# "бути у великій халепі") | [🌐](# "If we get caught, we’ll be in deep shit.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| shit happens | [🔊](# "шит хе́пенз") | [🇺🇦](# "таке трапляється, нічого не поробиш") | [🌐](# "We missed the flight, but hey — shit happens.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| know your shit | [🔊](# "ноу ёр шит") | [🇺🇦](# "добре розбиратись у чомусь, бути профі") | [🌐](# "Don’t worry about the interview — you know your shit.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| get your shit together | [🔊](# "ґет ёр шит туґе́зер") | [🇺🇦](# "зберися, візьми себе в руки") | [🌐](# "You really need to get your shit together before the big presentation.") |  | [🛠️](# "idiom (informal, vulgar)") |
+| rage | [🔊](# "рейдж") | [🇺🇦](# "лють, шалений гнів") | [🌐](# "He was shaking with rage after hearing the news.") |  | [🛠️](# "noun") |
+| frustration | [🔊](# "фрастре́йшн") | [🇺🇦](# "розчарування, фрустрація") | [🌐](# "He couldn't hide his frustration after losing the game.") |  | [🛠️](# "noun") |
+| grief | [🔊](# "ґріф") | [🇺🇦](# "горе, скорбота") | [🌐](# "She was overcome with grief after the loss of her friend.") |  | [🛠️](# "noun") |
+| sadness | [🔊](# "се́днес") | [🇺🇦](# "смуток, печаль") | [🌐](# "Her eyes were filled with sadness.") |  | [🛠️](# "noun") |
+| anger | [🔊](# "е́нґер") | [🇺🇦](# "гнів, злість") | [🌐](# "He couldn't hide his anger after the decision.") |  | [🛠️](# "noun") |
+| `📗 Class 37` </br>**Dealing with hardships** |  |  |  |  |  |
 | intimate | [🔊](# "і́нтімейт") | [🇺🇦](# "близький, інтимний") | [🌐](# "They had an intimate conversation about their relationship.") |  | [🛠️](# "adjective") |
 | gradually | [🔊](# "ґраджуелі") | [🇺🇦](# "поступово") | [🌐](# "He gradually improved his English by practicing every day.") |  | [🛠️](# "adverb") |
 | mean the world to someone | [🔊](# "мін зе ворлд ту самван") | [🇺🇦](# "дуже багато значити для когось") | [🌐](# "Your support means the world to me.") |  | [🛠️](# "idiom") |
