@@ -1,6 +1,9 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | `📗 Class 38` </br>**Curse it out** |  |  |  |  |  |
+| roller coaster | [🔊](# "ро́улер ко́устер") | [🇺🇦](# "американські гірки") | [🌐](# "I love riding roller coasters at the amusement park.") |  | [🛠️](# "noun") |
+| give (someone) a good scare | [🔊](# "ґів самван е гуд скер") | [🇺🇦](# "добре налякати когось") | [🌐](# "That horror movie gave me a good scare.") |  | [🛠️](# "idiom") |
+| jump out of one's skin | [🔊](# "джамп аут ов ванз скін") | [🇺🇦](# "сильно злякатися, підскочити від страху") | [🌐](# "I jumped out of my skin when the balloon popped.") |  | [🛠️](# "idiom") |
 | take no shit | [🔊](# "тейк ноу шит") | [🇺🇦](# "не терпіти знущань чи неповаги") | [🌐](# "She’s strong and takes no shit from anyone.") |  | [🛠️](# "idiom (informal, vulgar)") |
 | don’t give a shit | [🔊](# "доунт ґів е шит") | [🇺🇦](# "байдуже, абсолютно не хвилює") | [🌐](# "I don’t give a shit what they think.") |  | [🛠️](# "idiom (informal, vulgar)") |
 | scare the shit out of | [🔊](# "скер зе шит аут ов") | [🇺🇦](# "дуже сильно налякати") | [🌐](# "That movie scared the shit out of me.") |  | [🛠️](# "idiom (informal, vulgar)") |
