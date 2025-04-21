@@ -1,6 +1,15 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | `📗 Class 38` </br>**Curse it out** |  |  |  |  |  |
+| handle | [🔊](# "ге́ндл") | [🇺🇦](# "справлятися, керувати") | [🌐](# "He knows how to handle difficult situations.") |  | [🛠️](# "verb") |
+| yell | [🔊](# "йел") | [🇺🇦](# "кричати") | [🌐](# "Stop yelling — I can hear you just fine.") |  | [🛠️](# "verb, noun") |
+| swear | [🔊](# "свер") | [🇺🇦](# "лаятись, вживати нецензурну лексику") | [🌐](# "Swearing is not allowed in the classroom.") |  | [🛠️](# "verb, noun") |
+| curry | [🔊](# "ка́рі") | [🇺🇦](# "карі (пряна страва)") | [🌐](# "I made a spicy chicken curry for dinner.") |  | [🛠️](# "noun") |
+| tension | [🔊](# "те́ншн") | [🇺🇦](# "напруження, напруга") | [🌐](# "Tensions were high during the meeting.") |  | [🛠️](# "noun") |
+| comfort | [🔊](# "комферт") | [🇺🇦](# "втішати, заспокоювати") | [🌐](# "Her kind words comforted him after the loss.") |  | [🛠️](# "verb") |
+| feel down | [🔊](# "філ даун") | [🇺🇦](# "почуватись пригніченим, сумним") | [🌐](# "She's been feeling down since the argument.") |  | [🛠️](# "phrasal verb") |
+| tough breakup | [🔊](# "таф брейкап") | [🇺🇦](# "важке розлучення, важкий розрив стосунків") | [🌐](# "He went through a tough breakup last year.") |  | [🛠️](# "noun phrase") |
+| amaze | [🔊](# "амейз") | [🇺🇦](# "вражати") | [🌐](# "I was amazed by the beauty of the sunset.") |  | [🛠️](# "verb") |
 | roller coaster | [🔊](# "ро́улер ко́устер") | [🇺🇦](# "американські гірки") | [🌐](# "I love riding roller coasters at the amusement park.") |  | [🛠️](# "noun") |
 | give (someone) a good scare | [🔊](# "ґів самван е гуд скер") | [🇺🇦](# "добре налякати когось") | [🌐](# "That horror movie gave me a good scare.") |  | [🛠️](# "idiom") |
 | jump out of one's skin | [🔊](# "джамп аут ов ванз скін") | [🇺🇦](# "сильно злякатися, підскочити від страху") | [🌐](# "I jumped out of my skin when the balloon popped.") |  | [🛠️](# "idiom") |
