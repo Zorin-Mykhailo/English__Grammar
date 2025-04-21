@@ -1,5 +1,6 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| `📗 Class 39` </br>**How much do you spend?** |  |  |  |  |  |
 | `📗 Class 38` </br>**Curse it out** |  |  |  |  |  |
 | handle | [🔊](# "ге́ндл") | [🇺🇦](# "справлятися, керувати") | [🌐](# "He knows how to handle difficult situations.") |  | [🛠️](# "verb") |
 | yell | [🔊](# "йел") | [🇺🇦](# "кричати") | [🌐](# "Stop yelling — I can hear you just fine.") |  | [🛠️](# "verb, noun") |
