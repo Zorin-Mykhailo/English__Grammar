@@ -1,6 +1,12 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | `📗 Class 39` </br>**How much do you spend?** |  |  |  |  |  |
+| leisure | [🔊](# "лі́жер") | [🇺🇦](# "дозвілля, вільний час") | [🌐](# "I read books in my leisure time.") |  | [🛠️](# "noun") |
+| entertainment | [🔊](# "ентертеймент") | [🇺🇦](# "розваги, дозвілля") | [🌐](# "Movies and concerts are forms of entertainment.") |  | [🛠️](# "noun") |
+| dine out | [🔊](# "да́йн аут") | [🇺🇦](# "харчуватися поза домом, їсти в закладах") | [🌐](# "We enjoy dining out at new restaurants on weekends.") |  | [🛠️](# "verb phrase") |
+| grocery | [🔊](# "ґро́усері") | [🇺🇦](# "продукт, продукт харчування") | [🌐](# "I need to buy some groceries for the week.") |  | [🛠️](# "noun") |
+| utility | [🔊](# "юті́літі") | [🇺🇦](# "комунальна послуга") | [🌐](# "We pay for utilities like water, gas, and electricity every month.") |  | [🛠️](# "noun") |
+| mortgage | [🔊](# "мо́рґідж") | [🇺🇦](# "іпотека, кредит на житло") | [🌐](# "They applied for a mortgage to buy their first home.") |  | [🛠️](# "noun") |
 | `📗 Class 38` </br>**Curse it out** |  |  |  |  |  |
 | handle | [🔊](# "ге́ндл") | [🇺🇦](# "справлятися, керувати") | [🌐](# "He knows how to handle difficult situations.") |  | [🛠️](# "verb") |
 | yell | [🔊](# "йел") | [🇺🇦](# "кричати") | [🌐](# "Stop yelling — I can hear you just fine.") |  | [🛠️](# "verb, noun") |
