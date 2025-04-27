@@ -1,5 +1,22 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| `📗 Class 40` </br>**Entrepreneurship** |  |  |  |  |  |
+| attitude | [🔊](# "е́титьюд") | [🇺🇦](# "ставлення, позиція") | [🌐](# "His positive attitude helped him overcome difficulties.") |  | [🛠️](# "noun") |
+| leadership | [🔊](# "лі́дершип") | [🇺🇦](# "лідерство, керівництво") | [🌐](# "Her leadership skills helped the team succeed.") |  | [🛠️](# "noun") |
+| venture | [🔊](# "ве́нчер") | [🇺🇦](# "підприємство, ризикована справа") | [🌐](# "They started a new business venture together.") |  | [🛠️](# "noun, verb") |
+| spot | [🔊](# "спот") | [🇺🇦](# "місце; помічати, виявляти") | [🌐](# "I found a perfect spot for a picnic.") |  | [🛠️](# "noun, verb") |
+| mindset | [🔊](# "ма́йндсет") | [🇺🇦](# "спосіб мислення, світогляд") | [🌐](# "A positive mindset can help you overcome challenges.") |  | [🛠️](# "noun") |
+| entrepreneur | [🔊](# "онтрепрене́р") | [🇺🇦](# "підприємець") | [🌐](# "The entrepreneur started her own tech company.") |  | [🛠️](# "noun") |
+| insurance claim | [🔊](# "іншу́ренс клейм") | [🇺🇦](# "страхова вимога, позов") | [🌐](# "He filed several insurance claims after the accident.") |  | [🛠️](# "noun") |
+| amusement | [🔊](# "ем'ю́змент") | [🇺🇦](# "розвага, забава") | [🌐](# "The park offers rides and other amusements for kids.") |  | [🛠️](# "noun") |
+| ahold | [🔊](# "ехо́улд") | [🇺🇦](# "схопити, отримати доступ до чогось") | [🌐](# "I finally got ahold of him after several tries.") |  | [🛠️](# "noun (informal)") |
+| wonder | [🔊](# "вандер") | [🇺🇦](# "дивуватися, цікавитися") | [🌐](# "I wonder what she is doing now.") |  | [🛠️](# "verb, noun") |
+| diverge | [🔊](# "дайве́рдж") | [🇺🇦](# "розходитися, відхилятися") | [🌐](# "Their paths diverged after graduation.") |  | [🛠️](# "verb") |
+| obviously | [🔊](# "о́бвіслі") | [🇺🇦](# "очевидно, безумовно") | [🌐](# "Obviously, we need to start earlier next time.") |  | [🛠️](# "adverb") |
+| sneakerhead | [🔊](# "сні́керхед") | [🇺🇦](# "колекціонер або фанат кросівок") | [🌐](# "Sneakerheads often camp outside stores for limited-edition releases.") |  | [🛠️](# "noun") |
+| retail | [🔊](# "рі́тейл") | [🇺🇦](# "роздрібна торгівля") | [🌐](# "He works in retail, selling electronics.") |  | [🛠️](# "noun, verb") |
+| lineage | [🔊](# "лі́нідж") | [🇺🇦](# "родовід, походження") | [🌐](# "He can trace his lineage back to the 17th century.") |  | [🛠️](# "noun") |
+| propel | [🔊](# "пропе́л") | [🇺🇦](# "штовхати вперед, приводити в рух") | [🌐](# "The boat was propelled by a small motor.") |  | [🛠️](# "verb") |
 | `📗 Class 39` </br>**How much do you spend?** |  |  |  |  |  |
 | establish | [🔊](# "есте́бліш") | [🇺🇦](# "встановлювати, засновувати") | [🌐](# "The company was established in 1990.") |  | [🛠️](# "verb") |
 | expense | [🔊](# "ікспе́нс") | [🇺🇦](# "витрата, видаток") | [🌐](# "Rent is my biggest monthly expense.") |  | [🛠️](# "noun") |
