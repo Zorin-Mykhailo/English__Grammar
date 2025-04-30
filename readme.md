@@ -1,5 +1,18 @@
 ﻿| 🇺🇸 </br>Eng | 🔊 </br>Pron | 🇺🇦 </br>Ukr | 🌐 </br>Sample | ⚠️ </br>Note | 🛠️ </br>Info |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| `📗 Class 42` </br>**Setting boundaries** |  |  |  |  |  |
+| crush apart | [🔊](# "краш епа́рт") | [🇺🇦](# "розчавити на частини, розірвати") | [🌐](# "The machine crushed the old car apart in seconds.") |  | [🛠️](# "phrasal verb") |
+| crush | [🔊](# "краш") | [🇺🇦](# "розчавлювати, пригнічувати") | [🌐](# "She felt crushed after hearing the bad news.") |  | [🛠️](# "verb, adjective") |
+| excuse | [🔊](# "ікскью́з") | [🇺🇦](# "виправдання, привід; вибачати") | [🌐](# "He gave a weak excuse for being late.") |  | [🛠️](# "noun, verb") |
+| get back | [🔊](# "ґет бек") | [🇺🇦](# "повернутись, зв'язатися знову") | [🌐](# "I’ll get back to you later with an answer.") |  | [🛠️](# "phrasal verb") |
+| step in | [🔊](# "степ ін") | [🇺🇦](# "втрутитися, вступити в ситуацію") | [🌐](# "The teacher had to step in to stop the fight.") |  | [🛠️](# "phrasal verb") |
+| take a step | [🔊](# "тейк е степ") | [🇺🇦](# "зробити крок") | [🌐](# "It's time to take a step toward change.") |  | [🛠️](# "phrase") |
+| step backward | [🔊](# "степ бе́квард") | [🇺🇦](# "зробити крок назад, відступити") | [🌐](# "He stepped backward to avoid the falling object.") |  | [🛠️](# "phrasal verb") |
+| step forward | [🔊](# "степ фо́рвард") | [🇺🇦](# "виступити вперед, зголоситися") | [🌐](# "One witness finally stepped forward with information.") |  | [🛠️](# "phrasal verb") |
+| step aside | [🔊](# "степ еса́йд") | [🇺🇦](# "відійти вбік; поступитися місцем") | [🌐](# "He decided to step aside and let someone else take the lead.") |  | [🛠️](# "phrasal verb") |
+| habit | [🔊](# "ге́біт") | [🇺🇦](# "звичка") | [🌐](# "Waking up early has become a habit for me.") |  | [🛠️](# "noun") |
+| selfless | [🔊](# "се́лфлес") | [🇺🇦](# "безкорисливий, жертовний") | [🌐](# "Her selfless actions helped save many lives.") |  | [🛠️](# "adjective") |
+| selfish | [🔊](# "се́лфіш") | [🇺🇦](# "егоїстичний") | [🌐](# "It was selfish of him to take all the credit.") |  | [🛠️](# "adjective") |
 | `📗 Class 41` </br>**Bad manners and phones** |  |  |  |  |  |
 | swipe through | [🔊](# "сва́йп θру") | [🇺🇦](# "гортати, перегортати (наприклад, на телефоні)") | [🌐](# "I was swiping through photos on my phone.") |  | [🛠️](# "phrasal verb") |
 | text | [🔊](# "текст") | [🇺🇦](# "надсилати текстові повідомлення") | [🌐](# "She was texting her friend during the break.") |  | [🛠️](# "verb") |
